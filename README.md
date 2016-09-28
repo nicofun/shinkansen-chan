@@ -1,5 +1,4 @@
 # Shinkansenchan
-![新幹線ちゃん](https://raw.githubusercontent.com/nicofun/shinkansen-chan/develop/add-image/images/stand.png)
 
 
 Shinkansenchan is a chat bot built on the [Hubot][hubot] framework. It was
